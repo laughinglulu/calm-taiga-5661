@@ -174,6 +174,7 @@ $app_name = idx($app_info, 'name', '');
   </head>
   <body>
 	<p>some text</p>
+	<img src="images/dog.jpg" alt="Smiley face" height="100" width="75">
     <div id="fb-root"></div>
     <script type="text/javascript">
       window.fbAsyncInit = function() {
